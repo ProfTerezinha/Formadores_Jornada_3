@@ -1,9 +1,9 @@
-#texto {text-align: center;
+#texto{text-align: center;
    font-size: 20px; 
-   color: red;
+   color: rgb(255, 179, 0);
 }
-.titulo {text-align: center;
+.titulo{text-align: center;
     font-size: 30px;
-    color:blue; 
+    color:rgb(22, 22, 22); 
  }
 
